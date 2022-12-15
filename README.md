@@ -1,5 +1,10 @@
 # ELMED219: Artificial intelligence and computational medicine
 
+<p>
+
+[<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Fmmiv-ml%2FELMED219) &nbsp; [![kaggle](https://camo.githubusercontent.com/a08ca511178e691ace596a95d334f73cf4ce06e83a5c4a5169b8bb68cac27bef/68747470733a2f2f6b6167676c652e636f6d2f7374617469632f696d616765732f6f70656e2d696e2d6b6167676c652e737667)](https://www.kaggle.com/alexanderlundervold/code) &nbsp;  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/) &nbsp; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MMIV-ML/ELMED219/HEAD) &nbsp; [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/MMIV-ML/ELMED219/tree/main/)
+</p>
+
 The [course](https://www.uib.no/en/course/ELMED219) is offered by the [Department of Biomedicine](https://www.uib.no/biomedisin) in collaboration with the [Machine Learning Engineering group](https://github.com/HVL-ML) at the [Department of Computer science, Electrical engineering, and Mathematical sciences](https://www.hvl.no/en/about/management/faculty-of-engineering-and-science/department-of-computer-science-electrical-engineering-and-mathematical-sciences-ny-side), Western Norway University of Applied Sciences, and the Medical AI group at [Mohn Medical Imaging and Visualization Center](https://mmiv.no/).
 
 <img src="./assets/elmed219_logo.png" width="700"> <br>
