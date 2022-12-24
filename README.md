@@ -65,4 +65,4 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 ||_More TBA_                                                                                                                                                 |
 
 
-**Home exam**; Duration; 2 hours;  Assignment is handed out 27.01.2023, 09:00; Submission deadline 27.01.2023, 11:00; Examination system: Inspera Digital exam
+**Fri, Jan 27: Home exam**; Duration: 2 hours;  Assignment is handed out: 27.01.2023, 09:00; Submission deadline: 27.01.2023, 11:00; Examination system: Inspera Digital exam
