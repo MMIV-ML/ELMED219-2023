@@ -1,0 +1,43 @@
+name: elmed219-img
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python==3.9
+  - pip
+  - pip:
+    - notebook
+    - gdown
+    - ipywidgets
+    - "itkwidgets[all]>=1.0a16"
+    - openpyxl
+    - SimpleITK
+    - scikit-learn
+    - scikit-image
+    - scikit-plot
+    - imageio
+    - dcm2niix
+    - tifffile
+    - statsmodels
+    - pingouin
+    - nilearn
+
+
+
+## Configure the Python-environment for image processing and analysis (only once):
+# conda env create -f environment-img.yml
+
+## To make a ELMED219-IMG kernel:
+# python -m ipykernel install --user --name elmed219-img --display-name "ELMED219-IMG"
+
+## To activate the elmed219-img conda environment:
+# conda activate elmed219-img
+
+## To update the elmed29-img conda environment:
+# conda env update -f environment-img.yml
+
+## To remove and reinstall the elmed219-img environment (if installation problems):
+# conda deactivate
+# conda env remove -n elmed219-img
+# conda env create -f environment-img.yml
