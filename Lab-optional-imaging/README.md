@@ -79,7 +79,7 @@ assets
 ├── volume_rendering.png
 └── Zebra_running_Ngorongoro.jpg
 ```
-- [**02-mri-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab-oåptional-imaging/02-mri-intro.ipynb)<a href="https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab-optional-imaging/02-mri-intro.ipynb">
+- [**02-mri-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab-optional-imaging/02-mri-intro.ipynb)<a href="https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab-optional-imaging/02-mri-intro.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 <!--
