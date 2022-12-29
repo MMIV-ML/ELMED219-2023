@@ -1,0 +1,1 @@
+ We will be using multiparametric magnetic resonance images (mp-MRI) recordings from previous BraTS challenges openly available in the Medical Segmentation Decathlon (MSD) repository (http://medicaldecathlon.com) as `Task01_BrainTumor.tar` (see also https://decathlon-10.grand-challenge.org).
