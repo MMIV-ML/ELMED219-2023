@@ -53,16 +53,13 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | On your own                 | You'll spend approximately four hours completing at least one DataCamp course (remember to use the link on MittUiB for free access to DataCamp). The rest of day you'll work on your course projects. Which DataCamp course you're encouraged to do depends on your previous programming experience:<br><br>- No Python programming experience? Complete the course [Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science)<br>- Know some Python, but no machine learning? Can pass the *Python Programming Assessment* in our DataCamp group? Complete the course [Supervised Learning with scikit-learn](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn)<br>- Know the fundamentals of machine learning in Python? Can pass the *Machine Learning Fundamentals Assessment*? Complete the course [Biomedical Image Analysis in Python](https://learn.datacamp.com/courses/biomedical-image-analysis-in-python) |
 |                             |                                                                                                                                                                         |
 | **Mon, Jan 16**         |                                                                                                                                                                                                                                                                |
-| 10:15-12:00                 | LAB                                                                                                                             |
+| 10:15-12:00                 | Lab 2: Machine Learning Engineering in Medicine                                                                                               |
 |                             |                                                                                                                                                                         |
 |                             |                                                                                                                                                                       |
 | **Fri, Jan 20**         |                                                                            
-| 13:15-16:00                 | LAB |
+| 13:15-16:00                 | Lab 3: Deep Learning |
 |||
 | **Mon, Jan 23**         |                                                                                                                                                                                                                                                                      |
-| 13:15-16:00                 | |                                                                                                                                                       |
-|                             |                                                                                                                                                                            |
-||_More TBA_                                                                                                                                                 |
-
-
-**Fri, Jan 27: Home exam**; Duration: 2 hours;  Assignment is handed out: 27.01.2023, 09:00; Submission deadline: 27.01.2023, 11:00; Examination system: Inspera Digital exam
+| 13:15-16:00                 | Project Presentations <br> Perspectives on Medical AI and the Future of Medicine|                                                                                  |
+|**Fri, Jan 27** | 
+||**Home exam**; Duration: 2 hours;  Assignment is handed out: 27.01.2023, 09:00; Submission deadline: 27.01.2023, 11:00; Examination system: Inspera Digital exam
