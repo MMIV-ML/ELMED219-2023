@@ -26,7 +26,6 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 
 <img src="./assets/cc_by_sa.png" width="75"> The content for the course is offered with a <b><a href="http://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></b> license unless otherwise stated.
 
-
 --------
 
 # Tentative time schedule
@@ -59,3 +58,14 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | 13:15-16:00                 | Project Presentations <br> Perspectives on Medical AI and the Future of Medicine|                                                                                  |
 |**Fri, Jan 27** | 
 ||**Home exam**; Duration: 2 hours;  Assignment is handed out: 27.01.2023, 09:00; Submission deadline: 27.01.2023, 11:00; Examination system: Inspera Digital exam
+
+
+# Earlier versions of the course
+
+| **Year**                    | Link                                                                                |
+| --------------------------- |  -- | 
+|2023 |https://github.com/MMIV-ML/ELMED219 |
+|2022 |https://github.com/MMIV-ML/ELMED219-2022 |
+|2021 |https://github.com/MMIV-ML/ELMED219-2021 |
+|2020 |https://github.com/MMIV-ML/ELMED219-2020 |
+|2019 |https://github.com/MMIV-ML/ELMED219x-2019 |
