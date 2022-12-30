@@ -1,4 +1,4 @@
-# ELMED219-2023 (team-based project)
+# Team-based project
 
 
 ## _Precision medicine and quantitative imaging in glioblastoma_
@@ -6,9 +6,15 @@
 
 
 ## Description
-Imagine that you are a group of established successful scientists that will team up to tackle an important biomedical and medical challenge. There is an open call for research proposals under a new umbrella program entitled “Artificial intelligence and computational (bio)medicine”, where your multidisciplinary group are aiming for a project on “Precision medicine and quantitative imaging in glioblastoma - a multiscale approach”.
+Imagine that you are a group of established, successful scientists that will team up to tackle an important biomedical and medical challenge. There is an open call for research proposals under a new umbrella program entitled “Artificial intelligence and computational (bio)medicine,” where your multidisciplinary group is aiming for a project on “Precision medicine and quantitative imaging in glioblastoma - a multiscale approach.”
 
-The focus of the assignment is **(i)** description of relevant imaging technologies and modalities - possibly at different scales, **(ii)** proposal of imaging-derived biomarkers for glioblastoma, **(iii)** machine learning techniques for segmentation, classification, treatment stratification and prediction, **(iv)** the novelty and expected impact of your approach, and **(v)** the evaluation of the ethics of your project together with a data management plan (and not so much the basic science of brain tumors per se).
+The focus of the assignment is 
+
+1. description of relevant imaging technologies and modalities - possibly at different scales,
+2. proposal of imaging-derived biomarkers for glioblastoma, 
+3. machine learning techniques for segmentation, classification, treatment stratification, and prediction, 
+4. the novelty and expected impact of your approach, and 
+5. the evaluation of the ethics of your project, together with a data management plan (and not so much the basic science of brain tumors per se).
 
 
 ## Organization of your report
