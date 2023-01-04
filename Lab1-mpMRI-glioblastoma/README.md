@@ -3,6 +3,8 @@
 This lab will give an example-based introduction to multiparametric Magnetic Resonance Imaging (mpMRI) of brain tumor (glioblastoma), using Python and toolkits for computational medical imaging and analysis.
 
 
+See: ELMED219-Lab1-BRATS-3D-fastMONAI-extended.ipynb
+
 ## Slides
 
 _TBA_
