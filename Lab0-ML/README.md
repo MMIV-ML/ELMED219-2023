@@ -5,7 +5,7 @@ This lab will give a quick example-based introduction to basic ideas in machine 
 
 ## Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQG5oPYvcWPSos8IZn2HL1ikR_IzLdNQcEjh4IJ7WXa4xpa_Gk7WEmGVpMU564BjeKYQZ9gxpBUBzCt/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vQG5oPYvcWPSos8IZn2HL1ikR_IzLdNQcEjh4IJ7WXa4xpa_Gk7WEmGVpMU564BjeKYQZ9gxpBUBzCt/pub?start=false&loop=false&delayms=3000"><img src="assets/lab0-slides.png"></a>
 
 
 <!-- Here's a short extra video that goes through a very similar notebook to the one we use in this lab: https://www.youtube.com/watch?v=OhxUgFNnj1U. You may want to watch this as well. -->
