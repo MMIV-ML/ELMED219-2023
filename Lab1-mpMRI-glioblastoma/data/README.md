@@ -2,14 +2,15 @@
 
 
 
-Some technicalities for downloading data
+Some technicalities for downloading data on colab:
 ```
 import gdown
 import shutil
 import os
 import sys
+```
 
-
+```
 # This is a quick check of whether the notebook is currently 
 # running on Google Colaboratory or on Kaggle, 
 # as that makes some difference for the code below.
@@ -37,7 +38,7 @@ Download `assets.zip` file if ./assets does not exist (as when running in Colab)
 ```
 if os.path.isdir('./assets') == False:
     
-    ## Download assets.zip from Google Drive (My Drive -> ELMED219 -> Lab-optional-imaging -> assets.zip)
+    ## Download assets.zip from Google Drive (My Drive -> ELMED219 -> Lab1-mpMRI-glioblastoma -> assets.zip)
     # https://drive.google.com/file/d/1yYoQZR8jSyL1_23wimkMDHQv3cGC8TWN/view?usp=share_link
     
     file_id = '1yYoQZR8jSyL1_23wimkMDHQv3cGC8TWN'
@@ -58,7 +59,7 @@ Download data.zip file if ./data does not exist (as when running in Colab)
 ```
 if os.path.isdir('./data') == False:
     
-    ## Download data.zip from Google Drive  (My Drive -> ELMED219 -> Lab-optional-imaging -> data.zip)
+    ## Download data.zip from Google Drive  (My Drive -> ELMED219 -> Lab1-mpMRI-glioblastoma -> data.zip)
     # https://drive.google.com/file/d/1mKbERWG09Ni5UpnYhLlcebKfxeVu_Y2c/view?usp=share_link
     
     file_id = '1mKbERWG09Ni5UpnYhLlcebKfxeVu_Y2c'
