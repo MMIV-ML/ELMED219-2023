@@ -7,7 +7,7 @@ See: [ELMED219-Lab1-BRATS-3D-fastMONAI-extended.ipynb](ELMED219-Lab1-BRATS-3D-fa
 
 ## Slides
 
-_TBA_
+Linke to slides [HERE](https://docs.google.com/presentation/d/e/2PACX-1vR-pOgLjZhHBNMPo0vfSFik5oK8gs3km0zNVosiYsnE_GKZv8MrjJ6RsiEbqnW5eUZ4tRKLbEe9qfRc/pub?start=false&loop=false&delayms=3000)
 
 
 <!-- Here's a short extra video that goes through a very similar notebook to the one we use in this lab: https://www.youtube.com/watch?v=OhxUgFNnj1U. You may want to watch this as well. -->
