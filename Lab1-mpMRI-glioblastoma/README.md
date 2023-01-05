@@ -7,7 +7,7 @@ See: [**ELMED219-Lab1-BRATS-3D-fastMONAI-extended.ipynb**](ELMED219-Lab1-BRATS-3
 
 ## Slides
 
-Linke to slides [**HERE**](https://docs.google.com/presentation/d/e/2PACX-1vR-pOgLjZhHBNMPo0vfSFik5oK8gs3km0zNVosiYsnE_GKZv8MrjJ6RsiEbqnW5eUZ4tRKLbEe9qfRc/pub?start=false&loop=false&delayms=3000)
+Link to slides [**HERE**](https://docs.google.com/presentation/d/e/2PACX-1vR-pOgLjZhHBNMPo0vfSFik5oK8gs3km0zNVosiYsnE_GKZv8MrjJ6RsiEbqnW5eUZ4tRKLbEe9qfRc/pub?start=false&loop=false&delayms=3000)
 
 
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vR-pOgLjZhHBNMPo0vfSFik5oK8gs3km0zNVosiYsnE_GKZv8MrjJ6RsiEbqnW5eUZ4tRKLbEe9qfRc/pub?start=false&loop=false&delayms=3000"><img src="assets/Lab1_first_slide.png"></a>
@@ -15,11 +15,6 @@ Linke to slides [**HERE**](https://docs.google.com/presentation/d/e/2PACX-1vR-pO
 
 <!-- Here's a short extra video that goes through a very similar notebook to the one we use in this lab: https://www.youtube.com/watch?v=OhxUgFNnj1U. You may want to watch this as well. -->
 
-#### Jupyter notebooks
-
-:question: As Jupyter Notebook is quite new to many of you, you may want to skim through some tutorials. Here are two (also linked under "Getting Started" at MittUiB):
-* https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html
-* https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
 
 <hr>
 
@@ -38,3 +33,10 @@ Some additional (optional) example-based introductions to (bio)medical imaging i
 ## Your turn!
 
 Spend some time playing around with the provided examples. You'll find some questions for you to investigate in the notebooks. If you're already familiar with medical imaging and image analysis you can try your hand at more advanced examples, or, even better, help out other less experienced team members.
+
+
+#### Jupyter notebooks
+
+:question: As Jupyter Notebook is quite new to many of you, you may want to skim through some tutorials. Here are two (also linked under "Getting Started" at MittUiB):
+* https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html
+* https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
