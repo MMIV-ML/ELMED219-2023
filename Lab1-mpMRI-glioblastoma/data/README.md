@@ -35,17 +35,20 @@ else:
 ```
 
 Download `assets.zip` file if ./assets does not exist (as when running in Colab)
+
+
 ```
 if os.path.isdir('./assets') == False:
     
     ## Download assets.zip from Google Drive (My Drive -> ELMED219 -> Lab1-mpMRI-glioblastoma -> assets.zip)
-    # https://drive.google.com/file/d/1yYoQZR8jSyL1_23wimkMDHQv3cGC8TWN/view?usp=share_link
+    # OLD: https://drive.google.com/file/d/1yYoQZR8jSyL1_23wimkMDHQv3cGC8TWN/view?usp=share_link
+    # https://drive.google.com/file/d/1uF32YcNp1DveTqmEg4ao6INTJWv0WkXA/view?usp=sharing
     
-    file_id = '1yYoQZR8jSyL1_23wimkMDHQv3cGC8TWN'
+    file_id = '1uF32YcNp1DveTqmEg4ao6INTJWv0WkXA'
     url = 'https://drive.google.com/uc?id=%s' % file_id
     output = './assets.zip'
     #gdown.download(url, output, quiet=False)
-    !gdown "1yYoQZR8jSyL1_23wimkMDHQv3cGC8TWN&confirm=t"
+    !gdown "1uF32YcNp1DveTqmEg4ao6INTJWv0WkXA&confirm=t"
     
     ## Unzip the assets.zip file into `./assets`
     shutil.unpack_archive(output, '.')
@@ -60,13 +63,14 @@ Download data.zip file if ./data does not exist (as when running in Colab)
 if os.path.isdir('./data') == False:
     
     ## Download data.zip from Google Drive  (My Drive -> ELMED219 -> Lab1-mpMRI-glioblastoma -> data.zip)
-    # https://drive.google.com/file/d/1mKbERWG09Ni5UpnYhLlcebKfxeVu_Y2c/view?usp=share_link
+    # https://drive.google.com/file/d/1y3OvRNthpDdllo--L3WHYXTsjb6H87FT/view?usp=sharing
+    # OLD: https://drive.google.com/file/d/1mKbERWG09Ni5UpnYhLlcebKfxeVu_Y2c/view?usp=share_link
     
-    file_id = '1mKbERWG09Ni5UpnYhLlcebKfxeVu_Y2c'
+    file_id = '1y3OvRNthpDdllo--L3WHYXTsjb6H87FT'
     url = 'https://drive.google.com/uc?id=%s' % file_id
     output = './data.zip'
     #gdown.download(url, output, quiet=False)
-    !gdown "1mKbERWG09Ni5UpnYhLlcebKfxeVu_Y2c&confirm=t"
+    !gdown "1y3OvRNthpDdllo--L3WHYXTsjb6H87FT&confirm=t"
     
     ## Unzip the data.zip file into `./data`
     shutil.unpack_archive(output, '.')
