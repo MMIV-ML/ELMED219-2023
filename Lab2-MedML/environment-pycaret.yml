@@ -1,0 +1,16 @@
+name: pycaret
+dependencies:
+  - python=3.8
+  - pip
+  - ipython
+  - ipykernel
+  - ipywidgets
+  - jupyter
+  - git
+  - conda-forge::jupyter_contrib_nbextensions
+  - conda-forge::jupyterlab
+  - pip:
+    - pip >= 22
+    - kaggle
+    - pycaret[full]
+    - voila
