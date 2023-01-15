@@ -1,8 +1,9 @@
 # Lab 2: Machine Learning Engineering in Medicine
 
-<center>
-<img width=90% src="assets/ml_lifecycle_med.png">
-</center>
+
+<centering>
+<img width=80% src="assets/ml_lifecycle_med.png">
+</centering>
 
 <p>&nbsp;</p>
 
@@ -13,7 +14,7 @@ In this lab, we'll discuss **machine learning engineering**, some of the steps n
 ## Slides
 
 
-<a href="https://www.dropbox.com/s/dyg52885uy7sag2/ELMED219-2023-Lab2-MLengineering.pdf?dl=1"><img src="assets/slides.png"></a>
+<a href="https://www.dropbox.com/s/dyg52885uy7sag2/ELMED219-2023-Lab2-MLengineering.pdf?dl=1"><img width=80% src="assets/slides.png"></a>
 
 
 
