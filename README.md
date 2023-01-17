@@ -15,7 +15,7 @@ During the course, you will gain insight into computationally oriented thinking,
 
 We meet concepts such as **big data**, **data analysis**, **machine learning**, and **artificial intelligence (AI)**, with examples from personalized and predictive medicine. You will use methods and tools from numerical programming, data analysis, and "scientific computing" for medical applications, and learn about the importance of **open science**, **data sharing**, **reproducible research**, and **ethics by/in/for design** [[link](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/ethics-by-design-and-ethics-of-use-approaches-for-artificial-intelligence_he_en.pdf)]
 
-:point_right: This repository contains most of the course material. Students enrolled in the course will also find some practical information at [MittUiB](https://mitt.uib.no/courses/33274).
+:point_right: This repository contains most of the course material. Students enrolled in the course will also find some practical information at [MittUiB](https://mitt.uib.no/courses/40381).
 
 :eyes: A presentation and reflection on the course (presented for the "**Kunstig intelligens i norsk helsetjeneste** ([KIN](https://ehealthresearch.no/kin))" network meeting, February 8th, 2022) can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vQ2goLSZsIjeCQrjUnA4lfnXe2wgsgDpUXWe8be4K_pTqo4OD9qELxDlJyKknYVdCjJ34-Q4gcu-yYx/pub?start=false&loop=false&delayms=3000).
 
