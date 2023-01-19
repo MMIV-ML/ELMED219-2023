@@ -26,3 +26,6 @@ _TBA_
 | [ELMED219-Lab3-3.0-deep_learning_brain_tumor_segmentation.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219/blob/main/Lab3-DL/ELMED219-Lab3-3.0-deep_learning_brain_tumor_segmentation.ipynb) |[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/master/Lab3-DL/ELMED219-Lab3-3.0-deep_learning_brain_tumor_segmentation.ipynb) |
 
 
+## Extra: Demos of generative models
+
+See [GenModels Demos](./genmodels_demos/)
