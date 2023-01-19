@@ -56,6 +56,8 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | 13:15-16:00                 | [Lab 3: Deep Learning](./Lab3-DL/) |
 | **Mon, Jan 23**         |                                                                                                                                                                                                                                                                      |
 | 14:30-16:00                 | Project Presentations from Team 1 and Team 2 <br> Perspectives on Medical AI and the Future of Medicine|                                                                                  |
+| **Tue, Jan 24**         |                                                                                                                                                                                                                                                                      |
+| 16:00                       | Deadline for the Team Project Report (hand in via MittUiB)|                                                                                  |
 |**Fri, Jan 27** | 
 ||**Home exam**; Duration: 2 hours;  Assignment is handed out: 27.01.2023, 09:00; Submission deadline: 27.01.2023, 11:00; Examination system: Inspera Digital exam
 
