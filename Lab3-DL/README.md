@@ -11,7 +11,7 @@ We'll also look at some recent developments in deep learning and how they are&md
 
 ## Slides
 
-_TBA_
+<img width=60% src="assets/slides.png">
 
 
 
