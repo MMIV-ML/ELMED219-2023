@@ -11,7 +11,7 @@ We'll also look at some recent developments in deep learning and how they are&md
 
 ## Slides
 
-<img width=80% src="assets/slides.png">
+<a href="assets/ELMED219-2023-Lab3-Deep_Learning.pdf"><img width=80% src="assets/slides.png"></a>
 
 
 
