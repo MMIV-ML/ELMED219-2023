@@ -55,7 +55,7 @@ We meet concepts such as **big data**, **data analysis**, **machine learning**, 
 | **Fri, Jan 20**         |                                                                            
 | 13:15-16:00                 | [Lab 3: Deep Learning](./Lab3-DL/) |
 | **Mon, Jan 23**         |                                                                                                                                                                                                                                                                      |
-| 14:30-16:00                 | Project Presentations from Team 1 and Team 2 <br> Perspectives on Medical AI and the Future of Medicine|                                                                                  |
+| 14:30-16:00                 | Project Presentations from Team 1 and Team 2 <br> [Perspectives on Medical AI and the Future of Medicine](https://docs.google.com/presentation/d/e/2PACX-1vQcX0XEERDNlDEI6MncLimzPugpUIpv9x5T33E08kwNDJiI-9mReyg73gfnRzoghpB9Gs7kIXcOAjjd/pub?start=false&loop=false&delayms=3000)|                                                                                  |
 | **Tue, Jan 24**         |                                                                                                                                                                                                                                                                      |
 | 16:00                       | Deadline for the Team Project Report (hand in via MittUiB)|                                                                                  |
 |**Fri, Jan 27** | 
